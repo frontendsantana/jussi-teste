@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/frontendsantana.github.io/jussi-teste/static/css/main.6c42d016.chunk.css",
+    "main.js": "/frontendsantana.github.io/jussi-teste/static/js/main.67a25356.chunk.js",
+    "main.js.map": "/frontendsantana.github.io/jussi-teste/static/js/main.67a25356.chunk.js.map",
+    "runtime-main.js": "/frontendsantana.github.io/jussi-teste/static/js/runtime-main.42ede046.js",
+    "runtime-main.js.map": "/frontendsantana.github.io/jussi-teste/static/js/runtime-main.42ede046.js.map",
+    "static/js/2.025da06d.chunk.js": "/frontendsantana.github.io/jussi-teste/static/js/2.025da06d.chunk.js",
+    "static/js/2.025da06d.chunk.js.map": "/frontendsantana.github.io/jussi-teste/static/js/2.025da06d.chunk.js.map",
+    "static/js/3.f9721c0e.chunk.js": "/frontendsantana.github.io/jussi-teste/static/js/3.f9721c0e.chunk.js",
+    "static/js/3.f9721c0e.chunk.js.map": "/frontendsantana.github.io/jussi-teste/static/js/3.f9721c0e.chunk.js.map",
+    "index.html": "/frontendsantana.github.io/jussi-teste/index.html",
+    "static/css/main.6c42d016.chunk.css.map": "/frontendsantana.github.io/jussi-teste/static/css/main.6c42d016.chunk.css.map",
+    "static/js/2.025da06d.chunk.js.LICENSE.txt": "/frontendsantana.github.io/jussi-teste/static/js/2.025da06d.chunk.js.LICENSE.txt",
+    "static/media/image-jussi.5f1a5308.png": "/frontendsantana.github.io/jussi-teste/static/media/image-jussi.5f1a5308.png",
+    "static/media/produtos-banner.694ea22d.png": "/frontendsantana.github.io/jussi-teste/static/media/produtos-banner.694ea22d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42ede046.js",
+    "static/js/2.025da06d.chunk.js",
+    "static/css/main.6c42d016.chunk.css",
+    "static/js/main.67a25356.chunk.js"
+  ]
+}
